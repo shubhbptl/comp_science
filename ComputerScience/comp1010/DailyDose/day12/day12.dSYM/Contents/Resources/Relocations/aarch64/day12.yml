@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shubh/comp1010/day12/day12'
+relocations:     []
+...
